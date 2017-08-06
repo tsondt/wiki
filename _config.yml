@@ -1,0 +1,21 @@
+# Setup
+title: My Personal Wiki
+url: https://wiki.tsondt.com
+author:
+  name: tsondt
+  url: https://tsondt.com
+
+sass:
+  sass_dir: public/css
+  style: compressed
+
+exclude:
+  - "*.sh"
+  - "Dockerfile"
+  - "Gemfile*"
+  - "LICENSE"
+  - "README.md"
+  - "CNAME"
+
+gems:
+  - jekyll-sitemap
