@@ -4,6 +4,7 @@ url: https://wiki.tsondt.com
 author:
   name: tsondt
   url: https://tsondt.com
+ga_id: UA-103691933-3
 
 sass:
   sass_dir: public/css
