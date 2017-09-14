@@ -4,6 +4,7 @@ title: Application Security
 ---
 
 ## OWASP
+---
 - [Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
 - [Code Review Guide](https://www.owasp.org/index.php/Category:OWASP_Code_Review_Project)
 - [Developer Guide](https://www.owasp.org/index.php/OWASP_Guide_Project)
@@ -16,6 +17,7 @@ title: Application Security
 - [Proactive Controls](https://www.owasp.org/index.php/OWASP_Proactive_Controls)
 
 ## Mozilla
+---
 - <https://www.mozilla.org/en-US/security/advisories/>
 - <https://blog.mozilla.org/security/>
 ### Wiki
@@ -36,12 +38,13 @@ title: Application Security
 - <https://developer.mozilla.org/en-US/docs/Security/Firefox_Security_Guidelines>
 - <https://developer.mozilla.org/en-US/docs/Secure_Development_Guidelines>
 
-# Threat Modeling
+## Threat Modeling
+---
 - <https://www.owasp.org/index.php/Threat_Risk_Modeling>
 - [Microsoft SDL Practice #7: Use Threat Modeling](https://www.microsoft.com/en-us/SDL/process/design.aspx)
 - [Uncover Security Design Flaws Using The STRIDE Approach](http://download.microsoft.com/download/3/a/7/3a7fa450-1f33-41f7-9e6d-3aa95b5a6aea/MSDNMagazineNovember2006en-us.chm)
 - [Security Briefs - The MSF-Agile+SDL Process Template for TFS 2010](https://msdn.microsoft.com/en-us/magazine/ff955239.aspx)
-### Security Development Lifecycle for Agile Development
+- Security Development Lifecycle for Agile Development
   - <http://www.blackhat.com/presentations/bh-dc-10/Sullivan_Bryan/BlackHat-DC-2010-Sullivan-SDL-Agile-wp.pdf>
   - <http://www.blackhat.com/presentations/bh-dc-10/Sullivan_Bryan/BlackHat-DC-2010-Sullivan-SDL-Agile-slides.pdf>
 
@@ -52,6 +55,7 @@ title: Application Security
 - <http://octotrike.org/>
 
 ## Ruby
+---
 - <https://www.ruby-lang.org/en/security/>
 - <https://groups.google.com/forum/#!forum/ruby-security-ann>
 - <https://www.cvedetails.com/product/12215/Ruby-lang-Ruby.html?vendor_id=7252>
@@ -62,6 +66,7 @@ title: Application Security
 - <http://rubysecurity.info/>
 
 ## Rails
+---
 - <https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet>
 - <http://guides.rubyonrails.org/security.html>
 - <http://edgeguides.rubyonrails.org/security.html>
@@ -75,10 +80,12 @@ title: Application Security
 - <http://homakov.blogspot.ca/>
 
 ## .NET
+---
 - <https://www.owasp.org/index.php/.NET_Security_Cheat_Sheet>
 - <https://msdn.microsoft.com/en-us/library/330a99hc%28v=vs.140%29.aspx>
 
 ## Web
+---
 - [Content Security Policy](https://w3c.github.io/webappsec-csp/)
 - [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
 - [Cross-Origin Resource Sharing](https://www.w3.org/TR/cors/)
@@ -88,6 +95,7 @@ title: Application Security
 - [HTTP Strict Transport Security (HSTS)](https://tools.ietf.org/html/rfc6797)
 
 ## JavaScipt
+---
 - <https://github.com/RetireJS/retire.js>
 - <https://github.com/h3xstream/burp-retire-js>
 - <https://snyk.io/>
@@ -102,6 +110,7 @@ title: Application Security
 - <https://flow.org/>
 
 ## Web Browsers & Extensions
+---
 - <https://storage.googleapis.com/google-code-attachments/browsersec/issue-8/comment-8/Google%20Browser%20Security%20Handbook.pdf>
 - <https://blog.chromium.org/2009/12/security-in-depth-extension-system.html>
 - <https://blog.chromium.org/2011/07/writing-extensions-more-securely.html>
@@ -112,6 +121,7 @@ title: Application Security
 - <https://developer.mozilla.org/en-US/docs/Mozilla/Tech/Xray_vision>
 
 ## Windows native application
+---
 - <https://msdn.microsoft.com/en-us/library/windows/desktop/ms684179(v=vs.85).aspx>
 - <https://msdn.microsoft.com/en-us/library/windows/desktop/ff919712(v=vs.85).aspx>
 - <https://msdn.microsoft.com/en-us/library/windows/desktop/ms682586(v=vs.85).aspx#search_order_for_desktop_applications>

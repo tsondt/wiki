@@ -6,14 +6,12 @@ title: Cryptography
 - <http://en.wikipedia.org/wiki/Glossary_of_cryptographic_keys>
 - <https://en.wikipedia.org/wiki/Outline_of_cryptography>
 
-## Challenges
-- <https://cryptopals.com/>
-- <https://projecteuler.net/>
-- <https://www.root-me.org/en/Challenges/Cryptanalysis/>
-- <https://id0-rsa.pub/problem/tag/Classical-Crypto/>
-- <http://www.cryptogram.org/resource-area/solve-a-cipher/>
+## GPG
+---
+- <https://evil32.com/>
 
 ## Password
+---
 - [OWASP Password Storage Cheat Sheet](https://www.owasp.org/index.php/Password_Storage_Cheat_Sheet)
 - [OWASP Forgot Password Cheat Sheet](https://www.owasp.org/index.php/Forgot_Password_Cheat_Sheet)
 - [Password Hashing Competition](https://password-hashing.net/)
@@ -26,3 +24,11 @@ title: Cryptography
 - <http://blog.ircmaxell.com/2015/03/security-issue-combining-bcrypt-with.html>
 - [BLAKE2](https://blake2.net/)
 - [Argon2](https://www.cryptolux.org/index.php/Argon2)
+
+## Challenges
+---
+- <https://cryptopals.com/>
+- <https://projecteuler.net/>
+- <https://www.root-me.org/en/Challenges/Cryptanalysis/>
+- <https://id0-rsa.pub/problem/tag/Classical-Crypto/>
+- <http://www.cryptogram.org/resource-area/solve-a-cipher/>

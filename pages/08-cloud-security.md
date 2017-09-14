@@ -3,19 +3,25 @@ layout: page
 title: Cloud Security
 ---
 
-# Amazon Web Services
+## Amazon Web Services
 ---
-- <http://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>
+- <https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>
+- <https://github.com/open-guides/og-aws>
+- <http://flaws.cloud/>
+- Netflix
+  - <https://github.com/Netflix/security_monkey>
+  - <https://github.com/Netflix-Skunkworks/aardvark>
+  - <https://github.com/Netflix/Repokid>
 
-# Google Cloud Platform
+## Google Cloud Platform
 ---
 
-# Microsoft Azure
+## Microsoft Azure
 ---
 
-# Containers
+## Containers
 ---
-## Docker
+### Docker
 - <https://docs.docker.com/engine/security/security/>
 - <https://www.docker.com/sites/default/files/WP_IntrotoContainerSecurity_08.19.2016.pdf>
 - <https://medium.com/@ewindisch/on-the-security-of-containers-2c60ffe25a9e>
