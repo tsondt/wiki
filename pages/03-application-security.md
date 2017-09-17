@@ -78,11 +78,15 @@ title: Application Security
 - <https://molily.de/xss/>
 - <https://sakurity.com/blog>
 - <http://homakov.blogspot.ca/>
+- <https://github.com/hakirisec/hakiri_toolbelt>
 
 ## .NET
 ---
 - <https://www.owasp.org/index.php/.NET_Security_Cheat_Sheet>
 - <https://msdn.microsoft.com/en-us/library/330a99hc%28v=vs.140%29.aspx>
+
+## Go
+- <https://github.com/Checkmarx/Go-SCP>
 
 ## Web
 ---

@@ -5,7 +5,17 @@ title: Cloud Security
 
 ## Amazon Web Services
 ---
-- <https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>
+- Amazon
+  - <https://docs.aws.amazon.com/IAM/latest/UserGuide/best-practices.html>
+  - <https://aws.amazon.com/security/security-resources/>
+    - `site:awsstatic.com security`
+  - <https://aws.amazon.com/compliance/resources/>
+  - <https://aws.amazon.com/blogs/security/>
+  - <http://docs.aws.amazon.com/awscloudtrail/latest/userguide/send-cloudtrail-events-to-cloudwatch-logs.html>
+  - <http://docs.aws.amazon.com/AmazonVPC/latest/UserGuide/VPC_Security.html>
+  - <http://docs.aws.amazon.com/AmazonS3/latest/dev/example-bucket-policies.html>
+  - <https://www.youtube.com/user/AWSwebinars/>
+
 - <https://github.com/open-guides/og-aws>
 - <http://flaws.cloud/>
 - Netflix
@@ -15,6 +25,7 @@ title: Cloud Security
 
 ## Google Cloud Platform
 ---
+- <https://github.com/nccgroup/G-Scout>
 
 ## Microsoft Azure
 ---
