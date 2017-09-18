@@ -129,3 +129,15 @@ title: Application Security
 - <https://msdn.microsoft.com/en-us/library/windows/desktop/ms684179(v=vs.85).aspx>
 - <https://msdn.microsoft.com/en-us/library/windows/desktop/ff919712(v=vs.85).aspx>
 - <https://msdn.microsoft.com/en-us/library/windows/desktop/ms682586(v=vs.85).aspx#search_order_for_desktop_applications>
+
+## Bug Bounties
+---
+- <https://www.bugcrowd.com/>
+  - <https://forum.bugcrowd.com/t/how-do-you-approach-a-target/293>
+  - <https://forum.bugcrowd.com/t/researcher-resources-tools/167>
+  - <https://forum.bugcrowd.com/t/researcher-resources-bounty-bug-write-ups/1137>
+  - <https://forum.bugcrowd.com/t/researcher-resources-tutorials/370>
+- <https://www.hackerone.com/>
+- <https://firebounty.com/>
+- <https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php>
+- <https://internetbugbounty.org/>

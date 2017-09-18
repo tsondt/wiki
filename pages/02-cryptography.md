@@ -5,6 +5,19 @@ title: Cryptography
 
 - <http://en.wikipedia.org/wiki/Glossary_of_cryptographic_keys>
 - <https://en.wikipedia.org/wiki/Outline_of_cryptography>
+- <http://eprint.iacr.org/>
+- <https://tinycrypt.wordpress.com/>
+- <https://littlemaninmyhead.wordpress.com/2015/09/28/so-you-want-to-learn-to-break-ciphers/>
+- <http://outsourcedbits.org/2014/11/11/how-not-to-learn-cryptography/>
+- <http://www.cs.bris.ac.uk/Research/CryptographySecurity/knowledge.html>
+
+## Free Books
+---
+- [A Graduate Course in Applied Cryptography](http://toc.cryptobook.us/) by Dan Boneh and Victor Shoup
+- [Handbook of Applied Cryptography](http://cacr.uwaterloo.ca/hac/) by Alfred J. Menezes, Paul C. van Oorschot and Scott A. Vanstone
+- [Cryptography, An Introduction: Third Edition](https://www.cs.bris.ac.uk/~nigel/Crypto_Book/) by N.P. Smart
+- <https://www.crypto101.io/>
+- <https://inventwithpython.com/hacking/chapters/>
 
 ## GPG
 ---
@@ -29,6 +42,10 @@ title: Cryptography
 ---
 - <https://cryptopals.com/>
 - <https://projecteuler.net/>
+- <https://id0-rsa.pub/>
 - <https://www.root-me.org/en/Challenges/Cryptanalysis/>
-- <https://id0-rsa.pub/problem/tag/Classical-Crypto/>
 - <http://www.cryptogram.org/resource-area/solve-a-cipher/>
+
+## Write-ups
+---
+- <https://fail0verflow.com/blog/2014/plaidctf2014-for450-rsa/>
