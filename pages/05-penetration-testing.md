@@ -8,6 +8,7 @@ title: Penetration Testing
 - <https://0x00sec.org/t/shared-thoughts-after-6-years-in-pentesting/2492>
 - <https://www.offensive-security.com/kali-linux/kali-rolling-iso-of-doom/>
 - <https://kali.training/>
+- <https://www.offensive-security.com/metasploit-unleashed/>
 - <http://synack.blog/posts/red-teaming-and-pentesting-tips/index.html>
 
 ## Reconnaissance
@@ -30,6 +31,8 @@ title: Penetration Testing
 ---
 - <https://github.com/earthquake/xfltreat/>
 - <https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf>
+- <https://gallery.technet.microsoft.com/ATA-Playbook-ef0a8e38/file/169827/1/ATA%20Playbook.pdf>
+-
 
 ## Post-Exploitation
 ---
