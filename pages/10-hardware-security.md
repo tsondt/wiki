@@ -3,6 +3,10 @@ layout: page
 title: Hardware Security
 ---
 
+## WiFi
+---
+- <https://github.com/Tylous/SniffAir>
+
 ## Bluetooth
 ---
 - <https://greatscottgadgets.com/ubertoothone/>
@@ -14,6 +18,7 @@ title: Hardware Security
 - <https://github.com/merculite/BLE-Security>
 - <https://github.com/s0lst1c3/sentrygun-server>
 - <https://github.com/s0lst1c3/sentrygun>
+- <https://github.com/evilsocket/bleah>
 
 ## Intel® Software Guard Extensions (SGX)
 ---
@@ -44,4 +49,5 @@ title: Hardware Security
 
 ## Others
 ---
+- <http://osresearch.net/>
 - <https://samy.pl/keysweeper/>

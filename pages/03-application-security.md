@@ -115,6 +115,8 @@ title: Application Security
 
 ## Web Browsers & Extensions
 ---
+- <https://cure53.de/browser-security-whitepaper.pdf>
+- <https://browser-security.x41-dsec.de/X41-Browser-Security-White-Paper.pdf>
 - <https://storage.googleapis.com/google-code-attachments/browsersec/issue-8/comment-8/Google%20Browser%20Security%20Handbook.pdf>
 - <https://blog.chromium.org/2009/12/security-in-depth-extension-system.html>
 - <https://blog.chromium.org/2011/07/writing-extensions-more-securely.html>
@@ -141,3 +143,6 @@ title: Application Security
 - <https://firebounty.com/>
 - <https://www.vulnerability-lab.com/list-of-bug-bounty-programs.php>
 - <https://internetbugbounty.org/>
+- <https://leanpub.com/web-hacking-101>
+- <http://jackson.thuraisamy.me/finding-vulnerabilities.html>
+- <https://www.youtube.com/watch?v=1M1EOzulQsw>

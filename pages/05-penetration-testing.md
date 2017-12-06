@@ -45,6 +45,7 @@ title: Penetration Testing
 - <https://github.com/nccgroup/redsnarf>
 - <https://github.com/FuzzySecurity/PowerShell-Suite>
 - <https://github.com/vysec/ps1-toolkit>
+- <https://github.com/BeetleChunks/redsails>
 
 ## Challenges
 ---
