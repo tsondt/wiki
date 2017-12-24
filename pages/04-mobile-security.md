@@ -40,3 +40,4 @@ title: Mobile Security
 - <http://2016.confidence.org.pl/media/recap/Slawomir_Kosowski_-_Introduction_to_iOS_penetration_testing.pdf>
 - <https://pewpewthespells.com/re.html>
 - <https://www.theiphonewiki.com/>
+- <https://www.idbtool.com/>
