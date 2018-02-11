@@ -9,7 +9,6 @@ title: Application Security
 - [Code Review Guide](https://www.owasp.org/index.php/Category:OWASP_Code_Review_Project)
 - [Developer Guide](https://www.owasp.org/index.php/OWASP_Guide_Project)
 - [ASVS - Application Security Verification Standard](https://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project)
-- [Mobile ASVS + Mobile Security Testing Guide](https://www.owasp.org/index.php/OWASP_Mobile_Security_Testing_Guide)
 - [Testing Guide](https://www.owasp.org/index.php/OWASP_Testing_Project)
 - [Testing Checklist](https://www.owasp.org/index.php/Testing_Checklist)
 - [Cheat Sheets](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series)

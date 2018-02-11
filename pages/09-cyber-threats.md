@@ -70,6 +70,8 @@ title: Cyber Threats
 - <https://github.com/hfiref0x/VBoxHardenedLoader>
 - <https://github.com/nsmfoo/antivmdetection>
 - <https://blog.malwarebytes.com/threat-analysis/2014/02/a-look-at-malware-with-virtual-machine-detection/>
+- <https://github.com/LordNoteworthy/al-khaser>
+- <https://github.com/CheckPointSW/InviZzzible>
 
 ### VM Management
 - <https://www.packer.io>
@@ -84,6 +86,7 @@ title: Cyber Threats
 - <https://github.com/boxcutter/windows>
 - <http://gosecure.github.io/presentations/2016-05-19_northsec/OlivierBilodeau_HugoGenesse-Malboxes.pdf>
 - <https://github.com/GoSecure/malboxes>
+- <https://github.com/brimstone/windows-ova>
 
 ### Tools
 - <https://www.blackhat.com/docs/us-16/materials/us-16-Otsubo-O-checker-Detection-of-Malicious-Documents-through-Deviation-from-File-Format-Specifications.pdf>
