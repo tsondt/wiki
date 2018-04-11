@@ -3,6 +3,9 @@ layout: page
 title: Application Security
 ---
 
+- [Avoiding the Top 10 Software Security Design Flaws](https://www.computer.org/cms/CYBSI/docs/Top-10-Flaws.pdf)
+- <https://samate.nist.gov/SRD/testsuite.php>
+
 ## OWASP
 ---
 - [Top 10](https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project)
@@ -111,6 +114,7 @@ title: Application Security
 - <https://blog.risingstack.com/node-js-security-tips/>
 - <http://bitwiseshiftleft.github.io/sjcl/>
 - <https://flow.org/>
+- <https://github.com/dpnishant/jsprime>
 
 ## Web Browsers & Extensions
 ---

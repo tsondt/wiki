@@ -44,6 +44,7 @@ title: Hardware Security
 
 ## Internet of Things
 ---
+- <https://github.com/adi0x90/attifyos>
 - <https://www.chainofthings.com/>
 - <https://filament.com/>
 
@@ -51,3 +52,10 @@ title: Hardware Security
 ---
 - <http://osresearch.net/>
 - <https://samy.pl/keysweeper/>
+- Computrace
+	- <https://www.ghostlyhaks.com/forum/rom-eeprom-bios-efi-uefi/976-removing-deactivating-computrace>
+	- <https://www.coresecurity.com/corelabs-research/publications/deactivate-rootkit>
+	- <https://www.blackhat.com/presentations/bh-usa-09/ORTEGA/BHUSA09-Ortega-DeactivateRootkit-PAPER.pdf>
+	- <https://www.coresecurity.com/system/files/publications/2016/05/Slides-Deactivate-the-Rootkit-ASacco-AOrtega.pdf>
+	- <https://bartblaze.blogspot.ca/2014/11/thoughts-on-absolute-computrace.html>
+	- <https://securelist.com/absolute-computrace-revisited/58278/>

@@ -35,6 +35,9 @@ title: Cyber Threats
 - <https://github.com/davidoren/CuckooSploit>
 - <https://github.com/rodionovd/cuckoo-osx-analyzer>
 - <https://github.com/breachintelligence/packer-cuckoo>
+- <https://bitbucket.org/cse-assemblyline/assemblyline>
+- <http://scitechconnect.elsevier.com/inside-fight-against-malware-attacks/>
+- <https://app.any.run/>
 
 ### Malware Lab
 - <https://blindseeker.com/blahg/?p=337>

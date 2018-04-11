@@ -20,6 +20,9 @@ title: Online Resources
 - <https://reddit.com/r/fuzzing/new>
 - <https://packetstormsecurity.com/>
 - <http://seclists.org/>
+- Awesome lists:
+	- <https://github.com/rmusser01/Infosec_Reference>
+	
 
 ## People
 ---
@@ -36,6 +39,8 @@ title: Online Resources
 - [Anthony Ferrara](https://blog.ircmaxell.com/) ([GitHub](https://github.com/ircmaxell))
 - [Peter Ferrie](http://pferrie.host22.com/) ([GitHub](https://github.com/peterferrie))
 - [Krzysztof Kotowicz](http://blog.kotowicz.net/) ([Github](https://github.com/koto))
+- https://defuse.ca/
+- http://sandmaxprime.co/
 
 ## Organizations
 ---

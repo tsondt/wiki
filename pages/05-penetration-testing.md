@@ -3,6 +3,10 @@ layout: page
 title: Penetration Testing
 ---
 
+- <https://github.com/yeyintminthuhtut/Awesome-Red-Teaming>
+- <https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/>
+- <https://github.com/jivoi/offsec_pdfs>
+
 ## Methodology
 ---
 - <https://0x00sec.org/t/shared-thoughts-after-6-years-in-pentesting/2492>
@@ -10,9 +14,19 @@ title: Penetration Testing
 - <https://kali.training/>
 - <https://www.offensive-security.com/metasploit-unleashed/>
 - <http://synack.blog/posts/red-teaming-and-pentesting-tips/index.html>
+- Kali
+- BlackArch
+- Parrot
 
 ## Reconnaissance
 ---
+
+## Exploitation
+---
+- <https://github.com/Ekultek/WhatWaf>
+- <https://github.com/NetSPI/SQLInjectionWiki>
+- <https://github.com/1N3/IntruderPayloads>
+- <>
 
 ## Privilege Escalation
 ---
@@ -46,6 +60,12 @@ title: Penetration Testing
 - <https://github.com/FuzzySecurity/PowerShell-Suite>
 - <https://github.com/vysec/ps1-toolkit>
 - <https://github.com/BeetleChunks/redsails>
+- <https://github.com/mubix/post-exploitation-wiki>
+- <https://github.com/Ne0nd0g/merlin>
+
+## Reporting & Documentation
+---
+- <https://github.com/SerpicoProject/Serpico>
 
 ## Challenges
 ---
