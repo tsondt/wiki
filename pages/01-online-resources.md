@@ -8,6 +8,8 @@ title: Online Resources
 - <https://reddit.com/r/netsec/new>
 - <https://reddit.com/r/AskNetSec/new>
 - <https://reddit.com/r/netsecstudents/new>
+- <https://portswigger.net/daily-swig>
+- <https://hackerone.com/hacktivity>
 - <https://reddit.com/r/crypto/new>
 - <https://reddit.com/r/blackhat/new/>
 - <https://reddit.com/r/xss/new/>
@@ -22,7 +24,7 @@ title: Online Resources
 - <http://seclists.org/>
 - Awesome lists:
 	- <https://github.com/rmusser01/Infosec_Reference>
-	
+
 
 ## People
 ---

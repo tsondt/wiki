@@ -26,7 +26,6 @@ title: Penetration Testing
 - <https://github.com/Ekultek/WhatWaf>
 - <https://github.com/NetSPI/SQLInjectionWiki>
 - <https://github.com/1N3/IntruderPayloads>
-- <>
 
 ## Privilege Escalation
 ---

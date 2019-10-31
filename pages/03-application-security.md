@@ -18,6 +18,16 @@ title: Application Security
 - [Top 10 Privacy Risks Project](https://www.owasp.org/index.php/OWASP_Top_10_Privacy_Risks_Project)
 - [Proactive Controls](https://www.owasp.org/index.php/OWASP_Proactive_Controls)
 
+## Web
+---
+- [Content Security Policy](https://w3c.github.io/webappsec-csp/)
+- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
+- [Cross-Origin Resource Sharing](https://www.w3.org/TR/cors/)
+- [w3c webappsec mailing list](http://lists.w3.org/Archives/Public/public-webappsec/)
+- [Web Authentication](https://w3c.github.io/webauthn/)
+- [SSRF Bible](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit?pli=1)
+- [HTTP Strict Transport Security (HSTS)](https://tools.ietf.org/html/rfc6797)
+
 ## Mozilla
 ---
 - <https://www.mozilla.org/en-US/security/advisories/>
@@ -43,6 +53,7 @@ title: Application Security
 ## Threat Modeling
 ---
 - <https://www.owasp.org/index.php/Threat_Risk_Modeling>
+- [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook)
 - [Microsoft SDL Practice #7: Use Threat Modeling](https://www.microsoft.com/en-us/SDL/process/design.aspx)
 - [Uncover Security Design Flaws Using The STRIDE Approach](http://download.microsoft.com/download/3/a/7/3a7fa450-1f33-41f7-9e6d-3aa95b5a6aea/MSDNMagazineNovember2006en-us.chm)
 - [Security Briefs - The MSF-Agile+SDL Process Template for TFS 2010](https://msdn.microsoft.com/en-us/magazine/ff955239.aspx)
@@ -56,52 +67,18 @@ title: Application Security
 - <http://projects.webappsec.org/w/page/13246978/Threat%20Classification>
 - <http://octotrike.org/>
 
-## Ruby
+## SAST Tools
 ---
-- <https://www.ruby-lang.org/en/security/>
-- <https://groups.google.com/forum/#!forum/ruby-security-ann>
-- <https://www.cvedetails.com/product/12215/Ruby-lang-Ruby.html?vendor_id=7252>
-- <https://trailofbits.github.io/rubysec/>
-- <https://rubysec.com/>
-- <http://guides.rubygems.org/security/>
-- <https://hakiri.io/blog/ruby-security-tools-and-resources>
-- <http://rubysecurity.info/>
+- <https://www.owasp.org/index.php/Source_Code_Analysis_Tools>
+- <https://docs.gitlab.com/ee/user/application_security/sast/index.html#supported-languages-and-frameworks>
 
-## Rails
+## Languages & Frameworks
 ---
-- <https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet>
-- <http://guides.rubyonrails.org/security.html>
-- <http://edgeguides.rubyonrails.org/security.html>
-- <https://groups.google.com/forum/#!forum/rubyonrails-security>
-- <https://rails-sqli.org/>
-- <http://www.cvedetails.com/vulnerability-list/vendor_id-12043/product_id-22568/Rubyonrails-Ruby-On-Rails.html>
-- <https://rorsecurity.info/>
-- <http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/>
-- <https://molily.de/xss/>
-- <https://sakurity.com/blog>
-- <http://homakov.blogspot.ca/>
-- <https://github.com/hakirisec/hakiri_toolbelt>
-
-## .NET
----
-- <https://www.owasp.org/index.php/.NET_Security_Cheat_Sheet>
-- <https://msdn.microsoft.com/en-us/library/330a99hc%28v=vs.140%29.aspx>
-
-## Go
+### Go
 - <https://github.com/Checkmarx/Go-SCP>
+- <https://github.com/securego/gosec>
 
-## Web
----
-- [Content Security Policy](https://w3c.github.io/webappsec-csp/)
-- [Subresource Integrity](https://w3c.github.io/webappsec-subresource-integrity/)
-- [Cross-Origin Resource Sharing](https://www.w3.org/TR/cors/)
-- [w3c webappsec mailing list](http://lists.w3.org/Archives/Public/public-webappsec/)
-- [Web Authentication](https://w3c.github.io/webauthn/)
-- [SSRF Bible](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit?pli=1)
-- [HTTP Strict Transport Security (HSTS)](https://tools.ietf.org/html/rfc6797)
-
-## JavaScipt
----
+### JavaScipt
 - <https://github.com/RetireJS/retire.js>
 - <https://github.com/h3xstream/burp-retire-js>
 - <https://snyk.io/>
@@ -116,6 +93,34 @@ title: Application Security
 - <https://flow.org/>
 - <https://github.com/dpnishant/jsprime>
 
+### Ruby
+- <https://www.ruby-lang.org/en/security/>
+- <https://groups.google.com/forum/#!forum/ruby-security-ann>
+- <https://www.cvedetails.com/product/12215/Ruby-lang-Ruby.html?vendor_id=7252>
+- <https://trailofbits.github.io/rubysec/>
+- <https://rubysec.com/>
+- <http://guides.rubygems.org/security/>
+- <https://hakiri.io/blog/ruby-security-tools-and-resources>
+- <http://rubysecurity.info/>
+
+### Rails
+- <https://www.owasp.org/index.php/Ruby_on_Rails_Cheatsheet>
+- <http://guides.rubyonrails.org/security.html>
+- <http://edgeguides.rubyonrails.org/security.html>
+- <https://groups.google.com/forum/#!forum/rubyonrails-security>
+- <https://rails-sqli.org/>
+- <http://www.cvedetails.com/vulnerability-list/vendor_id-12043/product_id-22568/Rubyonrails-Ruby-On-Rails.html>
+- <https://rorsecurity.info/>
+- <http://blog.codeclimate.com/blog/2013/03/27/rails-insecure-defaults/>
+- <https://molily.de/xss/>
+- <https://sakurity.com/blog>
+- <http://homakov.blogspot.ca/>
+- <https://github.com/hakirisec/hakiri_toolbelt>
+
+### .NET
+- <https://www.owasp.org/index.php/.NET_Security_Cheat_Sheet>
+- <https://msdn.microsoft.com/en-us/library/330a99hc%28v=vs.140%29.aspx>
+
 ## Web Browsers & Extensions
 ---
 - <https://cure53.de/browser-security-whitepaper.pdf>
@@ -129,13 +134,13 @@ title: Application Security
 - <https://developer.mozilla.org/en-US/docs/Mozilla/Gecko/Script_security>
 - <https://developer.mozilla.org/en-US/docs/Mozilla/Tech/Xray_vision>
 
-## Windows native application
+## Native Application
 ---
 - <https://msdn.microsoft.com/en-us/library/windows/desktop/ms684179(v=vs.85).aspx>
 - <https://msdn.microsoft.com/en-us/library/windows/desktop/ff919712(v=vs.85).aspx>
 - <https://msdn.microsoft.com/en-us/library/windows/desktop/ms682586(v=vs.85).aspx#search_order_for_desktop_applications>
 
-## Bug Bounties
+## Bug Bounty & Responsible Disclosure Programs
 ---
 - <https://www.bugcrowd.com/>
   - <https://forum.bugcrowd.com/t/how-do-you-approach-a-target/293>
@@ -149,3 +154,9 @@ title: Application Security
 - <https://leanpub.com/web-hacking-101>
 - <http://jackson.thuraisamy.me/finding-vulnerabilities.html>
 - <https://www.youtube.com/watch?v=1M1EOzulQsw>
+- <https://github.com/disclose/disclose>
+
+## Oauth2
+---
+- [OAuth 2.0 Threat Model and Security Considerations](https://tools.ietf.org/html/rfc6819)
+- [OAuth 2.0 Security Best Current Practice](https://tools.ietf.org/html/draft-ietf-oauth-security-topics-13)

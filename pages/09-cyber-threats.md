@@ -121,7 +121,7 @@ title: Cyber Threats
 - <https://www.youtube.com/watch?v=m9yqnwuqdSk>
 
 ## Passive DNS data extraction from PCAP
-
+---
 ### PCAP
 - Awesome PCAP Tools: <https://github.com/caesar0301/awesome-pcaptools>
   - Benchmarks PCAP processing tools
@@ -150,6 +150,7 @@ title: Cyber Threats
 - <http://graphiteapp.org/>
 
 ## IDS/IPS
+---
 ### NIDS
 - Snort: <https://www.snort.org/>
 - Bro: <https://www.bro.org/>
