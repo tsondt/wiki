@@ -45,14 +45,16 @@ title: Cloud Security
 ## Google Cloud Platform
 ---
 - <https://github.com/nccgroup/G-Scout>{:target="_blank" rel="noopener"}
-- Cloud Security Command Center
-  - <https://cloud.google.com/blog/products/identity-security/5-steps-to-improve-your-cloud-security-posture-with-cloud-security-command-center>{:target="_blank" rel="noopener"}
-  - <https://cloud.google.com/blog/products/identity-security/catch-web-app-vulnerabilities-before-they-hit-production-with-cloud-web-security-scanner>{:target="_blank" rel="noopener"}
-  - <https://cloud.google.com/blog/products/identity-security/3-steps-to-detect-and-remediate-security-anomalies-with-cloud-anomaly-detection>{:target="_blank" rel="noopener"}
-  - <https://cloud.google.com/blog/products/identity-security/detect-and-respond-to-high-risk-threats-in-your-logs-with-google-cloud>{:target="_blank" rel="noopener"}
-  - <https://cloud.google.com/blog/products/identity-security/4-steps-to-stop-data-exfiltration-with-google-cloud>{:target="_blank" rel="noopener"}
-  - <https://cloud.google.com/blog/products/identity-security/find-and-fix-misconfigurations-in-your-google-cloud-resources>{:target="_blank" rel="noopener"}
-- <https://cloud.google.com/blog/topics/kubernetes-best-practices>{:target="_blank" rel="noopener"}
+- Google
+  - Cloud Security Command Center
+    - <https://cloud.google.com/blog/products/identity-security/5-steps-to-improve-your-cloud-security-posture-with-cloud-security-command-center>{:target="_blank" rel="noopener"}
+    - <https://cloud.google.com/blog/products/identity-security/catch-web-app-vulnerabilities-before-they-hit-production-with-cloud-web-security-scanner>{:target="_blank" rel="noopener"}
+    - <https://cloud.google.com/blog/products/identity-security/3-steps-to-detect-and-remediate-security-anomalies-with-cloud-anomaly-detection>{:target="_blank" rel="noopener"}
+    - <https://cloud.google.com/blog/products/identity-security/detect-and-respond-to-high-risk-threats-in-your-logs-with-google-cloud>{:target="_blank" rel="noopener"}
+    - <https://cloud.google.com/blog/products/identity-security/4-steps-to-stop-data-exfiltration-with-google-cloud>{:target="_blank" rel="noopener"}
+    - <https://cloud.google.com/blog/products/identity-security/find-and-fix-misconfigurations-in-your-google-cloud-resources>{:target="_blank" rel="noopener"}
+  - <https://cloud.google.com/blog/topics/kubernetes-best-practices>{:target="_blank" rel="noopener"}
+  - <https://cloud.google.com/security/beyondprod/>{:target="_blank" rel="noopener"}
 - <https://about.gitlab.com/blog/2020/02/12/plundering-gcp-escalating-privileges-in-google-cloud-platform/>{:target="_blank" rel="noopener"}
 - <https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation>{:target="_blank" rel="noopener"}
 - <https://rhinosecuritylabs.com/gcp/privilege-escalation-google-cloud-platform-part-1/>{:target="_blank" rel="noopener"}
