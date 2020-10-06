@@ -24,6 +24,7 @@ title: Cloud Security
 
 - <https://github.com/open-guides/og-aws>{:target="_blank" rel="noopener"}
 - <http://flaws.cloud/>{:target="_blank" rel="noopener"}
+- <http://flaws2.cloud/>{:target="_blank" rel="noopener"}
 - Netflix
   - <https://github.com/Netflix/security_monkey>{:target="_blank" rel="noopener"}
   - <https://github.com/Netflix-Skunkworks/aardvark>{:target="_blank" rel="noopener"}
@@ -32,6 +33,9 @@ title: Cloud Security
 - <https://github.com/duo-labs/cloudmapper>{:target="_blank" rel="noopener"}
 - <https://github.com/RhinoSecurityLabs/cloudgoat>{:target="_blank" rel="noopener"}
 - <https://github.com/RhinoSecurityLabs/pacu>{:target="_blank" rel="noopener"}
+- <https://github.com/aquasecurity/cloud-security-remediation-guides>{:target="_blank" rel="noopener"}
+- <https://github.com/aquasecurity/cloudsploit>{:target="_blank" rel="noopener"}
+- <https://github.com/nccgroup/ScoutSuite>{:target="_blank" rel="noopener"}
 
 - <https://andresriancho.github.io/nimbostratus/>{:target="_blank" rel="noopener"}
 - <https://github.com/dagrz/aws_pwn>{:target="_blank" rel="noopener"}
