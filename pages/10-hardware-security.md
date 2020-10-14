@@ -20,10 +20,10 @@ title: Hardware Security
 - <https://github.com/s0lst1c3/sentrygun>{:target="_blank" rel="noopener"}
 - <https://github.com/evilsocket/bleah>{:target="_blank" rel="noopener"}
 
-## Intel® Software Guard Extensions (SGX){:target="_blank" rel="noopener"}
+## Intel® Software Guard Extensions (SGX)
 ---
 
-## Trusted Execution Environment (TEE){:target="_blank" rel="noopener"}
+## Trusted Execution Environment (TEE)
 ---
 - <http://bits-please.blogspot.ca/>{:target="_blank" rel="noopener"}
 - <https://googleprojectzero.blogspot.ca/2017/07/trust-issues-exploiting-trustzone-tees.html>{:target="_blank" rel="noopener"}

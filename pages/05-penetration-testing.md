@@ -6,17 +6,19 @@ title: Penetration Testing
 - <https://github.com/yeyintminthuhtut/Awesome-Red-Teaming>{:target="_blank" rel="noopener"}
 - <https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/>{:target="_blank" rel="noopener"}
 - <https://github.com/jivoi/offsec_pdfs>{:target="_blank" rel="noopener"}
+- Kali Linux - Offensive Security:
+  - <https://www.kali.org/>
+  - <https://kali.training/>
+  - <https://www.offensive-security.com/metasploit-unleashed/>{:target="_blank" rel="noopener"}
+  - <https://www.offensive-security.com/kali-linux/kali-rolling-iso-of-doom/>{:target="_blank" rel="noopener"}
+  - <https://github.com/tsondt/kali-mini-rolling-packer-vagrant>
+- <https://blackarch.org/>
+- <https://www.parrotsec.org/>
 
 ## Methodology
 ---
 - <https://0x00sec.org/t/shared-thoughts-after-6-years-in-pentesting/2492>{:target="_blank" rel="noopener"}
-- <https://www.offensive-security.com/kali-linux/kali-rolling-iso-of-doom/>{:target="_blank" rel="noopener"}
-- <https://kali.training/>{:target="_blank" rel="noopener"}
-- <https://www.offensive-security.com/metasploit-unleashed/>{:target="_blank" rel="noopener"}
 - <http://synack.blog/posts/red-teaming-and-pentesting-tips/index.html>{:target="_blank" rel="noopener"}
-- Kali
-- BlackArch
-- Parrot
 
 ## Reconnaissance
 ---
@@ -45,7 +47,6 @@ title: Penetration Testing
 - <https://github.com/earthquake/xfltreat/>{:target="_blank" rel="noopener"}
 - <https://www.jpcert.or.jp/english/pub/sr/20170612ac-ir_research_en.pdf>{:target="_blank" rel="noopener"}
 - <https://gallery.technet.microsoft.com/ATA-Playbook-ef0a8e38/file/169827/1/ATA%20Playbook.pdf>{:target="_blank" rel="noopener"}
--
 
 ## Post-Exploitation
 ---

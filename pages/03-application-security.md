@@ -27,11 +27,13 @@ title: Application Security
 - [Web Authentication](https://w3c.github.io/webauthn/){:target="_blank" rel="noopener"}
 - [SSRF Bible](https://docs.google.com/document/d/1v1TkWZtrhzRLy0bYXBcdLUedXGb9njTNIJXa3u9akHM/edit?pli=1){:target="_blank" rel="noopener"}
 - [HTTP Strict Transport Security (HSTS)](https://tools.ietf.org/html/rfc6797){:target="_blank" rel="noopener"}
+- <https://portswigger.net/web-security>
 
 ## Mozilla
 ---
 - <https://www.mozilla.org/en-US/security/advisories/>{:target="_blank" rel="noopener"}
 - <https://blog.mozilla.org/security/>{:target="_blank" rel="noopener"}
+
 ### Wiki
 - <https://wiki.mozilla.org/Security/Server_Side_TLS>{:target="_blank" rel="noopener"}
 - <https://wiki.mozilla.org/Security/Guidelines/OpenSSH>{:target="_blank" rel="noopener"}
@@ -43,6 +45,7 @@ title: Application Security
 - <https://wiki.mozilla.org/WebAppSec/Secure_Coding_Guidelines>{:target="_blank" rel="noopener"}
 - <https://wiki.mozilla.org/WebAppSec/Web_Security_Verification>{:target="_blank" rel="noopener"}
 - <https://wiki.mozilla.org/WebAppSec/Secure_Coding_QA_Checklist>{:target="_blank" rel="noopener"}
+
 ### Developer
 - <https://developer.mozilla.org/en-US/docs/Mozilla/Projects/NSS>{:target="_blank" rel="noopener"}
 - <https://developer.mozilla.org/en-US/docs/Web/Security>{:target="_blank" rel="noopener"}

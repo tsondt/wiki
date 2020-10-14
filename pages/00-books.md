@@ -5,7 +5,7 @@ title: Books
 
 ## Free
 ---
-- [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html) by Ross Anderson
+- [Security Engineering](http://www.cl.cam.ac.uk/~rja14/book.html){:target="_blank" rel="noopener"} by Ross Anderson
 
 ## Cryptology
 ---
