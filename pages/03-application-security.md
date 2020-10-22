@@ -57,6 +57,8 @@ title: Application Security
 ---
 - <https://www.owasp.org/index.php/Threat_Risk_Modeling>{:target="_blank" rel="noopener"}
 - [OWASP Threat Model Cookbook](https://github.com/OWASP/threat-model-cookbook){:target="_blank" rel="noopener"}
+- <https://owasp.org/www-project-pytm/>{:target="_blank" rel="noopener"}
+- <https://cheatsheetseries.owasp.org/cheatsheets/Threat_Modeling_Cheat_Sheet.html>{:target="_blank" rel="noopener"}
 - [Microsoft SDL Practice #7: Use Threat Modeling](https://www.microsoft.com/en-us/SDL/process/design.aspx){:target="_blank" rel="noopener"}
 - [Uncover Security Design Flaws Using The STRIDE Approach](http://download.microsoft.com/download/3/a/7/3a7fa450-1f33-41f7-9e6d-3aa95b5a6aea/MSDNMagazineNovember2006en-us.chm){:target="_blank" rel="noopener"}
 - [Security Briefs - The MSF-Agile+SDL Process Template for TFS 2010](https://msdn.microsoft.com/en-us/magazine/ff955239.aspx){:target="_blank" rel="noopener"}
