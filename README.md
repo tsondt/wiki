@@ -18,4 +18,4 @@ bundle exec jekyll serve
 ./docker-run.sh
 ```
 ---
-Published by [tsondt](https://tsondt.com/) with [Jekyll](https://github.com/jekyll/jekyll) using [BlackDoc](https://github.com/karloespiritu/BlackDoc) theme. [MIT License](LICENSE).
+Published by [tsondt](https://tsondt.com/) with [Jekyll](https://jekyllrb.com) using [BlackDoc](https://github.com/karloespiritu/BlackDoc) theme. [MIT License](LICENSE).

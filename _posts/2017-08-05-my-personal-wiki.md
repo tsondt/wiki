@@ -22,4 +22,4 @@ bundle exec jekyll serve
 ./docker-run.sh
 {% endhighlight %}
 
-<p>Published by <a href="{{ site.author.url }}" class="h6" target="_blank">{{ site.author.name }}</a> with <a href="https://github.com/jekyll/jekyll" class="h6" target="_blank">Jekyll</a> using <a href="https://github.com/karloespiritu/BlackDoc" class="h6" target="_blank">BlackDoc</a> theme.</p>
+<p>Published by <a href="{{ site.author.url }}" class="h6" target="_blank">{{ site.author.name }}</a> with <a href="https://jekyllrb.com" class="h6" target="_blank">Jekyll</a> using <a href="https://github.com/karloespiritu/BlackDoc" class="h6" target="_blank">BlackDoc</a> theme.</p>
