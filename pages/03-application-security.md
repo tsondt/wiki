@@ -17,6 +17,8 @@ title: Application Security
 - [Cheat Sheets](https://www.owasp.org/index.php/OWASP_Cheat_Sheet_Series){:target="_blank" rel="noopener"}
 - [Top 10 Privacy Risks Project](https://www.owasp.org/index.php/OWASP_Top_10_Privacy_Risks_Project){:target="_blank" rel="noopener"}
 - [Proactive Controls](https://www.owasp.org/index.php/OWASP_Proactive_Controls){:target="_blank" rel="noopener"}
+- [TimeGap Theory](https://owasp.org/www-project-timegap-theory/){:target="_blank" rel="noopener"}
+- [Juice Shop](https://owasp.org/www-project-juice-shop/){:target="_blank" rel="noopener"}
 
 ## Web
 ---

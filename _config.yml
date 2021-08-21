@@ -12,6 +12,7 @@ sass:
 
 exclude:
   - "*.sh"
+  - "Makefile"
   - "Dockerfile"
   - "Gemfile*"
   - "LICENSE"
