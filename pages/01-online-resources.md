@@ -9,8 +9,6 @@ title: Online Resources
 - <https://reddit.com/r/netsec/new>{:target="_blank" rel="noopener"}
 - <https://reddit.com/r/AskNetSec/new>{:target="_blank" rel="noopener"}
 - <https://reddit.com/r/netsecstudents/new>{:target="_blank" rel="noopener"}
-- <https://portswigger.net/daily-swig>{:target="_blank" rel="noopener"}
-- <https://hackerone.com/hacktivity>{:target="_blank" rel="noopener"}
 - <https://reddit.com/r/crypto/new>{:target="_blank" rel="noopener"}
 - <https://reddit.com/r/blackhat/new/>{:target="_blank" rel="noopener"}
 - <https://reddit.com/r/xss/new/>{:target="_blank" rel="noopener"}
@@ -21,6 +19,8 @@ title: Online Resources
 - <https://reddit.com/r/REMath/new>{:target="_blank" rel="noopener"}
 - <https://reddit.com/r/lowlevel/new/>{:target="_blank" rel="noopener"}
 - <https://reddit.com/r/fuzzing/new>{:target="_blank" rel="noopener"}
+- <https://portswigger.net/daily-swig>{:target="_blank" rel="noopener"}
+- <https://hackerone.com/hacktivity>{:target="_blank" rel="noopener"}
 - <https://packetstormsecurity.com/>{:target="_blank" rel="noopener"}
 - <http://seclists.org/>{:target="_blank" rel="noopener"}
 - <https://github.com/rmusser01/Infosec_Reference>{:target="_blank" rel="noopener"}
@@ -42,7 +42,8 @@ title: Online Resources
 - [Krzysztof Kotowicz](http://blog.kotowicz.net/){:target="_blank" rel="noopener"} ([Github](https://github.com/koto){:target="_blank" rel="noopener"})
 - [Taylor Hornby](https://defuse.ca/){:target="_blank" rel="noopener"} ([GitHub](https://github.com/defuse){:target="_blank" rel="noopener"}, [Twitter](https://twitter.com/defusesec){:target="_blank" rel="noopener"})
 - [Lionel Faleiro](http://sandmaxprime.co/){:target="_blank" rel="noopener"}
-
+- [Sean Metcalf](https://adsecurity.org) ([GitHub](https://github.com/PyroTek3){:target="_blank" rel="noopener"}, [Twitter](https://twitter.com/PyroTek3){:target="_blank" rel="noopener"})
+- [Alex Ionescu](https://www.alex-ionescu.com/) ([GitHub](https://github.com/PyroTek3){:target="_blank" rel="noopener"}, [Twitter](https://twitter.com/PyroTek3){:target="_blank" rel="noopener"}, <https://windows-internals.com/>{:target="_blank" rel="noopener"})
 ## Organizations
 ---
 
@@ -62,6 +63,7 @@ title: Online Resources
 - [Immunity](https://www.immunitysec.com/){:target="_blank" rel="noopener"}
 - [IOActive](https://ioactive.com/){:target="_blank" rel="noopener"}
 - [Mandiant/FireEye](https://www.fireeye.com/services/consulting-services.html){:target="_blank" rel="noopener"}
+- [MDSec](https://www.mdsec.co.uk/){:target="_blank" rel="noopener"}
 - [MWR InfoSecurity](https://www.mwrinfosecurity.com/) ([Labs](https://labs.mwrinfosecurity.com/){:target="_blank" rel="noopener"}, [GitHub](https://github.com/mwrlabs){:target="_blank" rel="noopener"})
 - [NCC Group](https://www.nccgroup.trust/){:target="_blank" rel="noopener"}
 - [Netitude](https://www.netitude.co.uk/){:target="_blank" rel="noopener"}
@@ -71,6 +73,7 @@ title: Online Resources
 - [Pentest Limitied](http://www.pentest.co.uk/){:target="_blank" rel="noopener"}
 - [Rapid7](https://www.rapid7.com/){:target="_blank" rel="noopener"}
 - [SecureWorks](https://www.secureworks.com/){:target="_blank" rel="noopener"}
+- [SpecterOps](https://specterops.io/){:target="_blank" rel="noopener"}
 - [Synack](https://www.synack.com/) ([Blog](https://www.synack.com/blog/){:target="_blank" rel="noopener"}, [GitHub](https://github.com/synack){:target="_blank" rel="noopener"})
 - [Trail of Bits](https://www.trailofbits.com/){:target="_blank" rel="noopener"}
 - [TrustedSec](https://www.trustedsec.com/){:target="_blank" rel="noopener"}

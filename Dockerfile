@@ -1,4 +1,4 @@
-FROM ubuntu:bionic
+FROM ruby:2
 
 VOLUME /srv
 WORKDIR /srv
@@ -19,10 +19,10 @@ RUN apt-get update && \
     apt-get autoclean && \
     gem install bundler
 
-RUN groupadd -g 1000 ubuntu && \
-    useradd -r -m -u 1000 -g ubuntu ubuntu
+RUN groupadd -g 1000 ss && \
+    useradd -r -m -u 1000 -g ss ss
 
-USER ubuntu
+USER ss
 
 ENTRYPOINT ["bundle"]
 CMD ["--help"]
